@@ -1,6 +1,6 @@
 {
     "context": "client",
-    "identifier": "com.pa.lemonrevenge.2v2-lemonrevenge-maps",
+    "identifier": "com.pa.lemonrevenge.2v2-summer-maps",
     "display_name": "Lemonrevenge 2v2 Summer Tournament Map Pack",
     "description": "10 2v2 maps for the legion-mla summer tournament",
     "author": "Lemonrevenge",
@@ -17,7 +17,7 @@
         "planets"
     ],
     "load_planet": [
-        "coui://ui/mods/com.pa.lemonrevenge.2v2-lemonrevenge-maps/maplist.js"
+        "coui://ui/mods/com.pa.lemonrevenge.2v2-summer-maps/maplist.js"
     ],
     "priority": 100,
     "enabled": true,
