@@ -8,5 +8,5 @@ cShareSystems.load_pas("2v2 Summer Tournament", [
 	"coui://ui/mods/com.pa.lemonrevenge.2v2-summer-maps/systems/high_and low [Lemon tournament rework].pas",
 	"coui://ui/mods/com.pa.lemonrevenge.2v2-summer-maps/systems/locket_2v2_ns.pas",
 	"coui://ui/mods/com.pa.lemonrevenge.2v2-summer-maps/systems/thief's pass 2v2 ns.pas",
-	"coui://ui/mods/com.pa.lemonrevenge.2v2-summer-maps/systems/t-kure atoll 2v2 ns.pas",
+	"coui://ui/mods/com.pa.lemonrevenge.2v2-summer-maps/systems/t-kure atoll 2v2 ns.pas"
 ]);
